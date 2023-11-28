@@ -3,3 +3,5 @@ games_with_bgg_ranking.csv
 games_with_bgg_ranking.md
 games.csv
 games.json
+gameweight_correction.csv
+games_corrected.csv
